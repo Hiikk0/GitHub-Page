@@ -1,0 +1,4 @@
+<!-- sample rectangle -->
+<svg width="8" height="30" xmlns="http://www.w3.org/2000/svg">
+  <line x1="3" y1="30" x2="3" y2="0" stroke="black" />
+</svg>
